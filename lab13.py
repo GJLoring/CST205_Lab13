@@ -83,7 +83,7 @@ def getUserWord(wordTypeCount):
     wordList = [''] * wordTypeCount[wordType]
     for x in range(wordTypeCount[wordType]):
       prompt = ("Please enter a %s:\t"%(wordType))
-      wordList[x] = input(prompt)
+      wordList[x] = requestString(prompt)
     completeWordList[wordType]=wordList
   return completeWordList
  
