@@ -13,8 +13,8 @@
 # We have inserted tags for every romved word to indicate the type of word it was and
 # should therefore be replaced with, verbs with verbs, nouns with nouns nd so on
 newsStory = '''
-<Pronoun> has <verb> a brand new <noun>, which experts said shows a <adjactive> advance in technology and threat.
-Photos of the <noun> released Thursday by <pronoun> showed a large, tall missile that appears to be significantly <adjactive> than the Hwasong-14, previously Pyongyang's most-advanced missile, which was launched over Japan twice in July.
+<Pronoun> has <verb> a brand new <noun>, which experts said shows a <adjective> advance in technology and threat.
+Photos of the <noun> released Thursday by <pronoun> showed a large, tall missile that appears to be significantly <adjective> than the Hwasong-14, previously Pyongyang's most-advanced missile, which was launched over Japan twice in July.
 \"They wanted (to be able) to hit all of the US and they wanted something big to hit it with," said David Schmerler, a research associate at the James Martin Center for Nonproliferation Studies (CNS). \"This seems on the surface level to be that missile.\"
 The US military has begun referring to the missile as a <noun> -- a new designation signaling that the US is increasingly seeing the recent launch as involving a new type of ICBM, according to two US defense officials.
 The two launches in July were categorized as KN-20s.
